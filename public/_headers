@@ -1,0 +1,5 @@
+# Revalidate at most about once per day (browser + shared caches).
+# https://developers.cloudflare.com/workers/static-assets/headers/
+/icons/*
+
+  Cache-Control: public, max-age=86400, s-maxage=86400
