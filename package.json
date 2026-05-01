@@ -1,0 +1,7 @@
+{
+  "name": "chooselocal-public",
+  "private": true,
+  "devDependencies": {
+    "wrangler": "4.87.0"
+  }
+}
